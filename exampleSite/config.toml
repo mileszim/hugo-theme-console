@@ -11,6 +11,9 @@ languageCode = "en-us"
   # To disable animations, please remove or comment animationStyle parameter
   animateStyle = "animated zoomIn fast" 
 
+  # About Text
+  about = "Console is a minimal, responsive and light theme for Hugo inspired by Linux console."
+
   [[params.navlinks]]
   name = "about/"
   url = "about/"
